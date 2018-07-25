@@ -1,6 +1,6 @@
 {
   "name": "@collaborne/tsconfig",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Best practice TypeScript configuration for all collaborne projects",
   "main": "tsconfig.json",
   "repository": "https://github.com/Collaborne/tsconfig-collaborne.git",
