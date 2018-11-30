@@ -5,5 +5,8 @@
   "main": "tsconfig.json",
   "repository": "https://github.com/Collaborne/tsconfig-collaborne.git",
   "author": "Collaborne",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^3.2.1"
+  }
 }
