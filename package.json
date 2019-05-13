@@ -11,9 +11,9 @@
   },
   "devDependencies": {
     "@types/node": "^10.12.10",
-    "typescript": "^3.2.1"
+    "typescript": "^3.4.1"
   },
   "peerDependencies": {
-    "typescript": "^3.2.1"
+    "typescript": "^3.4.1"
   }
 }
