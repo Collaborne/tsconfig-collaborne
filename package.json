@@ -10,7 +10,7 @@
     "test": "tsc -p test"
   },
   "devDependencies": {
-    "@types/node": "^10.12.10",
+    "@types/node": "^12.12.50",
     "typescript": "^3.9.7"
   },
   "peerDependencies": {
