@@ -21,7 +21,5 @@
 		"strictBindCallApply": true,
 		"strictNullChecks": true,
 		"target": "es2018",
-
-		"experimentalDecorators": true,
 	}
 }
