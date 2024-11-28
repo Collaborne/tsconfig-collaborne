@@ -3,6 +3,9 @@
   "version": "1.8.1",
   "description": "Best practice TypeScript configuration for all Collaborne projects",
   "main": "tsconfig.json",
+  "exports": {
+    "./tsconfig.json": "./tsconfig.json"
+  },
   "repository": "https://github.com/Collaborne/tsconfig-collaborne.git",
   "author": "Collaborne B.V. <opensource@collaborne.com>",
   "license": "Apache-2.0",
