@@ -1,4 +1,4 @@
-# tsconfig-collaborne [![Build Status](https://travis-ci.com/Collaborne/tsconfig-collaborne.svg?branch=master)](https://travis-ci.com/Collaborne/tsconfig-collaborne)
+# tsconfig-collaborne
 
 Best practice TypeScript configuration for all collaborne projects
 
